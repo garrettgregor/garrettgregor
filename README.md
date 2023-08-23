@@ -6,7 +6,7 @@
 ### <div align="center">I'm Garrett, routesetter turned back-end software developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [Jana Social](https://github.com/garrettgregor/jana_social_be)  
+- 🔭 I’m currently working on [Project Planner]([https://github.com/garrettgregor/jana_social_be](https://github.com/orgs/AI-Project-Planner/repositories))  
   
 
 - 🌱 I’m currently learning React and Django  
