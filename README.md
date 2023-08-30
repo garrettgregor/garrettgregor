@@ -1,48 +1,48 @@
 <div align="center">
-<img src="https://uc6bb55977a8e82a810d926d54d8.previews.dropboxusercontent.com/p/thumb/ACBns9tpIt6tyUVpNQEihx01QurJxa8I-ivHvst6PgAMLlvuzbRI34eFySH8rw4m2qrefJSJ2hULZlpjSxxrPZlpefTR6ri7On9zrpMfI-U4e-XJutb3eGER_4ZgP4HLkS8qfd_UMBqrI1wIsRygJYWVTyuS52UTLzJHE1xZRtoDR4hBdFtP_H7KdTkipSzTDwME3ItKhqYQAODw1CB03rgAZZLzT8Y18gr26MrWs2uqspFo0Ebv2QyoKizn_EnFvApvKTiSqxb11B_uSuJwoo6whXKlZptJIX4KLdmDmIMbUHRoOhIbMlWuZ8R0RDmnGbIJCIwmAtBm-SnMOwKLDYdm3y104Pft1GfXJX95bWjQG_B2BSQ_3jRli9rJEJYC2RY/p.png" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://previews.dropbox.com/p/thumb/ACCmW2CBeuyZJ8NvfumbDy8-uiqSHnTr4pIWIsSX46BNIDl-Rbk5R8OfulIwtlooop-LTSf1Fa5FoI3Z277CG7IqBNfqTck0Uf0xyfBre337na2-7w5BvnSH1KoAlzKPXcxzASE2GvxNWGM-_9A7VIGFvkwOYWswAhd6MiLk9eQo4ZHTc8R5d-4HEIQge-uhyQRmgK4mMShi3pULDMPDrfqa75h0t5k-if4ts8p5gYlRyNzC3RPGwVaDcMLyHY5SYE0H223h_ue2HV0TTgpv45mzNdkaeQnoK7EVd868afBybAvn8qDo9z0JPLTxuHzBfeDHflAlbInlVCPB4VoiaR6b/p.png" align="center" style="width: 100%" />
+</div>
 
-### <div align="center">I'm Garrett, routesetter turned back-end software developer 👨‍💻 working remotely since 2019 🚀</div>  
-  
+
+### <div align="center">I'm Garrett, routesetter turned back-end software developer 👨‍💻 working remotely since 2019 🚀</div>
+
 
 - 🔭 I’m currently working on [Project Planner](https://github.com/garrettgregor/jana_social_be)
-  
-
-- 🌱 I’m currently learning React and Django  
-  
-
-- ❓ Ask me about anything related to Ruby on Rails and related technologies  
-  
-
-- ⚡ Fun fact: I was a routesetter at the Tokyo 2021 Olympics  
-  
-
-<br/>  
 
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-</div>  
-
-<br/>  
+- 🌱 I’m currently learning React and Django
 
 
-## Connect with me  
+- ❓ Ask me about anything related to Ruby on Rails and related technologies
+
+
+- ⚡ Fun fact: I was a routesetter at the Tokyo 2021 Olympics
+
+
+<br/>
+
+
+## Languages and Tools
+<div align="center">
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="25" /></a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>
+<a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="25" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>
+</div>
+
+<br/>
+
+
+## Connect with me
 <div align="center">
 <a href="https://github.com/garrettgregor" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -61,39 +61,39 @@
 </a>
 <a href="https://www.youtube.com/@garrettgregor" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+</a>
+</div>
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=garrettgregor&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=garrettgregor&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+## Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=garrettgregor&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-<br/>  
+<br/>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=garrettgregor&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=garrettgregor&&style=flat-square" align="center" />
-</div>  
-  
+</div>
 
-<br/>  
+
+<br/>
 
 <div align="center">
             <a href="https://paypal.me/GarrettGregor" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"
                     align="center"
                 />
             </a>
             <a href="https://www.buymeacoffee.com/garrettgregor" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
                     align="center"
                 />
             </a></div>
