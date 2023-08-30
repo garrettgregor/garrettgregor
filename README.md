@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://previews.dropbox.com/p/thumb/ACCmW2CBeuyZJ8NvfumbDy8-uiqSHnTr4pIWIsSX46BNIDl-Rbk5R8OfulIwtlooop-LTSf1Fa5FoI3Z277CG7IqBNfqTck0Uf0xyfBre337na2-7w5BvnSH1KoAlzKPXcxzASE2GvxNWGM-_9A7VIGFvkwOYWswAhd6MiLk9eQo4ZHTc8R5d-4HEIQge-uhyQRmgK4mMShi3pULDMPDrfqa75h0t5k-if4ts8p5gYlRyNzC3RPGwVaDcMLyHY5SYE0H223h_ue2HV0TTgpv45mzNdkaeQnoK7EVd868afBybAvn8qDo9z0JPLTxuHzBfeDHflAlbInlVCPB4VoiaR6b/p.png" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/garrettgregor/garrettgregor/main/github-header.png" align="center" style="width: 100%" />
 </div>
-
 
 ### <div align="center">I'm Garrett, routesetter turned back-end software developer 👨‍💻 working remotely since 2019 🚀</div>
 
