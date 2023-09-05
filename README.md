@@ -2,7 +2,6 @@
 <img src="images/github-header.gif" align="center" style="width: 100%" />
 </div>
 
-
 ### <div align="center">Routesetter turned back-end software developer 👨‍💻</div>
 
 
