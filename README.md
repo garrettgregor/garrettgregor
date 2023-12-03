@@ -5,10 +5,10 @@
 ### <div align="center">Routesetter turned back-end software developer 👨‍💻</div>
 
 
-- 🔭 I’m currently working on [Project Planner](https://github.com/AI-Project-Planner/project_planner_be)
+- 🔭 I’m participating in [The Advent of Code 2023](https://adventofcode.com/) - come play!
 
 
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning REGEX
 
 
 - ❓ Ask me about anything related to Ruby on Rails and related technologies
