@@ -5,10 +5,10 @@
 ### <div align="center">Routesetter turned back-end software developer 👨‍💻</div>
 
 
-- 🔭 I’m participating in [The Advent of Code 2023](https://adventofcode.com/) - come play!
+- 🔭 I’m participated in [The Advent of Code 2023](https://adventofcode.com/) - come play next year!
 
 
-- 🌱 I’m currently learning REGEX
+- 🌱 I’m currently learning JavaScript and React
 
 
 - ❓ Ask me about anything related to Ruby on Rails and related technologies
