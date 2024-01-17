@@ -5,7 +5,7 @@
 ### <div align="center">Routesetter turned back-end software developer 👨‍💻</div>
 
 
-- 🔭 I’m participated in [The Advent of Code 2023](https://adventofcode.com/) - come play next year!
+- 🔭 I recently participated in [The Advent of Code 2023](https://adventofcode.com/) - come play next year!
 
 
 - 🌱 I’m currently learning JavaScript and React
