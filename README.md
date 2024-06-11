@@ -8,13 +8,16 @@
 - 🔭 I recently participated in [The Advent of Code 2023](https://adventofcode.com/) - come play next year!
 
 
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning TypeScript and Angular
 
 
 - ❓ Ask me about anything related to Ruby on Rails and related technologies
 
 
-- ⚡ Fun fact: I was a routesetter at the Tokyo 2021 Olympics
+- ⚡ Two truths and a lie
+  - I was a routesetter at the Tokyo 2021 Olympics
+  - I will be the Head routesetter at the Paris 2024 Olympics
+  - I placed second at USA's Bouldering Nationals in 2013
 
 
 <br/>
