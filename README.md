@@ -16,7 +16,7 @@
 
 - ⚡ Two truths and a lie
   - I was a routesetter at the Tokyo 2021 Olympics
-  - I will be the Head routesetter at the Paris 2024 Olympics
+  - I was the Head routesetter at the Paris 2024 Olympics
   - I placed second at USA's Bouldering Nationals in 2013
 
 
